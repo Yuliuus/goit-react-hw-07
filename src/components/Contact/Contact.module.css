@@ -1,10 +1,10 @@
 .contactWrap {
-    max-width: 100%;
+    width: 240px;
     border-radius: 8px;
     padding: 10px;
     display: flex;
     align-items: center;
-    gap: 20px;
+   justify-content: space-between;
     border: 1px solid #2a2a2a;
     margin: 0;
   }
